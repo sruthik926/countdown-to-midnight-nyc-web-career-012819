@@ -1,6 +1,9 @@
 #write your code here
 
 def countdown(int)
-  x = int
-  while 
+  
+  while int <= 0
+    puts
+    int -= 1
+  end
 end
