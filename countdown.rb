@@ -1,11 +1,10 @@
 #write your code here
 
-def countdown(int)
+def countdown(num)
   
-  while int <= 0
+  while num <= 0
     binding.pry
     puts "#{int} SECOND(S)!"
-  
     int -= 1
   end
    "HAPPY NEW YEAR!"
