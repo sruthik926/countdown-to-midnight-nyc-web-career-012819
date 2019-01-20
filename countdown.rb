@@ -2,8 +2,7 @@
 
 def countdown(num)
   
-  while num <= 0
-    binding.pry
+  while num < 0
     puts "#{int} SECOND(S)!"
     int -= 1
   end
